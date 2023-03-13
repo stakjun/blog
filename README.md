@@ -4,3 +4,5 @@
 
 [event loop](https://github.com/stakjun/blog/issues/2)
 
+[Promise](https://github.com/stakjun/blog/issues/3)
+
